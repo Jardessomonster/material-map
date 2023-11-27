@@ -4,9 +4,11 @@
 
 Em C++, o termo "map" refere-se a um contêiner associativo que armazena pares de chave-valor. É uma implementação da estrutura de dados de tabela hash ou árvore de busca binária equilibrada, que permite um acesso rápido aos elementos com base em sua chave.
 
+---
+
 Cada elemento no mapa consiste em uma chave única e seu respectivo valor associado. A chave é usada para acessar o valor correspondente de forma eficiente. A estrutura do mapa garante que as chaves sejam exclusivas e armazenadas em ordem crescente, o que facilita a pesquisa e a recuperação dos valores.
 
-![Untitled](./Untitled.png)
+## ![Untitled](./Untitled.png)
 
 ---
 
